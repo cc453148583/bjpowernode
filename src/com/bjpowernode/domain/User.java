@@ -1,7 +1,7 @@
 package com.bjpowernode.domain;
 
 /**
- * 动力节点 cc
+ *  cc
  * 2020/2/6
  */
 public class User {
